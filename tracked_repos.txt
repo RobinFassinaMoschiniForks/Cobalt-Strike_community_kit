@@ -145,3 +145,4 @@ BOF, 0xbngs/WMIPersistKit
 Aggressor, shellkraft/Ledger
 BOF, nettitude/CLR-Stomp
 BOF, KingOfTheNOPs/cookie-monster
+Malleable-C2, D00Movenok/BounceBack
